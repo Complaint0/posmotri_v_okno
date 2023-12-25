@@ -1,5 +1,12 @@
 # Yandex Project "Watch in window"
-Alt-H1
-------
+This is the __second project of Yandex practice__. 
+We wrote all .css file for html code to bring it to figma layout.
+In this case we __considered__:
+* Pseudoclasses and pseudoelements
+* Stylized form elements
+* Use *block-size* and *inline-size* instead of ~~width~~ and ~~height~~ 
+* Use class *visually-hidden* to create a new stylized checkboxes
+* 
 
-https://github.com/Complaint0/posmotri_v_okno.git
+
+## [Ссылка на проект](https://github.com/Complaint0/posmotri_v_okno.git) 
