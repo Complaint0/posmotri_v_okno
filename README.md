@@ -1,6 +1,6 @@
 # Yandex Project "Watch in window"
 This is the __second project of Yandex practice__.<br/>
-We wrote all .css file for html code to bring it to figma layout.
+We wrote all style.css file for html code to bring it to figma layout.
 In this case we __considered__:
 * Pseudoclasses and pseudoelements
 * Stylized form elements
